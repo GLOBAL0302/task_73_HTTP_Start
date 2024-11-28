@@ -1,0 +1,15 @@
+{
+  "name": "class_73",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev1": "node task_1/task_1.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "express": "^4.21.1"
+  }
+}
